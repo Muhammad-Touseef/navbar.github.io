@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
-	background:#e91e61;
+	background:#9933ff;
 }
 .navb{
 	//list-style: none;
@@ -54,7 +54,7 @@ ul li .icon .fa
 	color: #000;
 }
 ul li a .icon .fa:last-child{
-	color: #e91e63;
+	color: #9933ff;
 
 }
 ul li a:hover .icon .fa
