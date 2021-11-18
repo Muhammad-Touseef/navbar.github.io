@@ -1,1 +1,1 @@
-https://touseef-tech.github.io/navbar.github.io/
+https://muhammad-touseef.github.io/navbar.github.io/
